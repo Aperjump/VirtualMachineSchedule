@@ -1,2 +1,2 @@
 # VirtualMachineSchedule
-Some simple script to schedule resources between virtual machines 
+Some script to schedule resources between virtual machines 
